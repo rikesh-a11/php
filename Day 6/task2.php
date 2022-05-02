@@ -1,0 +1,4 @@
+<?php 
+
+echo strlen ("NAGARJUNA COLLEGE OF INFORMATION AND TECHNOLOGY");
+?>
